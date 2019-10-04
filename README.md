@@ -1,7 +1,7 @@
 ## Data Science / Analytics Projects.
 
-Rowan Cassius \\
-(rocassius@ischool.berkeley.edu)
+Rowan Cassius
+  (rocassius@ischool.berkeley.edu)
 
 Credentials:
 * BA – Applied Mathematics, Statistics Concentration (May 2019, Attained)
