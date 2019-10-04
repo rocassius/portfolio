@@ -1,4 +1,4 @@
+## Data Science / Analytics Projects.
 
 Rowan Cassius
-
-Data Science / Analytics Projects.
+rocassius@ischool.berkeley.edu
