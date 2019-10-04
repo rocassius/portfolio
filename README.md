@@ -1,6 +1,6 @@
 ## Data Science / Analytics Projects.
 
-Rowan Cassius
+Rowan Cassius \\
 (rocassius@ischool.berkeley.edu)
 
 Credentials:
