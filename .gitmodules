@@ -1,0 +1,6 @@
+[submodule "project-1-rocassius"]
+	path = project-1-rocassius
+	url = https://github.com/mids-w205-crook/project-1-rocassius.git
+[submodule "Bikeshare-Analysis"]
+	path = Bikeshare-Analysis
+	url = https://github.com/mids-w205-crook/project-1-rocassius.git
