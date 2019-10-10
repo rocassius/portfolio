@@ -1,13 +1,6 @@
-# Project 1: Query Project
-
-- In the Query Project, you will get practice with SQL while learning about
-  Google Cloud Platform (GCP) and BiqQuery. You'll answer business-driven
-  questions using public datasets housed in GCP. To give you experience with
-  different ways to use those datasets, you will use the web UI (BiqQuery) and
-  the command-line tools, and work with them in jupyter notebooks.
-
-- We will be using the Bay Area Bike Share Trips Data
-  (https://cloud.google.com/bigquery/public-data/bay-bike-share). 
+# Bikeshare Analytics Project
+* Completed For MIDS W207: Fundamentals of Data Enineering
+* Feedback from instructor: "Your writeup and analysis was one of the best!"
 
 #### Problem Statement
 
@@ -21,3 +14,7 @@
 - Through this project, you will answer these questions: 
   * What are the 5 most popular trips that you would call "commuter trips"?
   * What are your recommendations for offers (justify based on your findings)?
+  
+
+#### Data
+- https://cloud.google.com/bigquery/public-data/bay-bike-share 
