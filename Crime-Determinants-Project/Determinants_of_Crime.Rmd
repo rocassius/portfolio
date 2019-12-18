@@ -209,7 +209,7 @@ model.1 <- lm(crmrte ~ prbarr + density, data=crime)
 
 > To examine the zero conditional mean assumption, we have plotted the residuals as a function of the fitted values. By inspection of the residuals vs fitted values plot (see Appendix), there is not substantial evidence of violation of the zero conditional mean assumption. The conditional mean remains close to zero but tends downward slightly as the fitted values increase. 
 
-5. **Homoscadascity**
+5. **Homoscedasticity**
 
 > By examination of the residuals vs fitted values plot (see Appendix), there appears to some degree of heteroscedasticity because the magnitude of the residuals tapers off at both the highest and lowest fitted values. To address this, we will use heteroscedasticty robust standard errors when making inferences. 
 
