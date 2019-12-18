@@ -1,5 +1,6 @@
 # Analyzing Determinants of Crime
 * Completed For MIDS W203: Statistics For Data Science
+* Authors: Rowan Cassius, Michael Steckler, Julian Pelzner
 * Feedback from instructor: "The lab you turned in is one of the top two in the class"
 
 #### Problem Statement
